@@ -1,2 +1,2 @@
-# Keres-assesment2
+# Keras-assesment2
 image classification project
